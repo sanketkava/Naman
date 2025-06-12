@@ -43,7 +43,7 @@ const PersonalContact = () => {
                 </div>
                 <div className="flex items-center">
                   <Phone className="h-5 w-5 text-accent-fg" />
-                  <a href="tel:+919924417455" className="ml-4 text-primary-fg/90 hover:text-accent-fg">+91 99244174455</a>
+                  <a href="tel:+919924417455" className="ml-4 text-primary-fg/90 hover:text-accent-fg">+91 9924417455</a>
                 </div>
                 <div className="flex items-center">
                   <MapPin className="h-5 w-5 text-accent-fg" />

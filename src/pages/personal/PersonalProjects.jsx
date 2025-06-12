@@ -157,28 +157,6 @@ const PersonalProjects = () => {
   "repoLink": "#"
 },
 {
-  "id": 9,
-  "title": "Hotel Service Booking Mobile",
-  "category": "Mobile Development",
-  "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
-  "shortDescription": "A cross-platform mobile app for booking hotel services, built with React Native.",
-  "longDescription": "This Hotel Service Booking Mobile App, developed using React Native and Expo, offers a seamless platform for users to book hotel rooms and services such as dining, spa, and concierge. Features include a dynamic hotel search and filter system, real-time room availability, secure payment processing via Stripe, user profiles with booking history, push notifications for booking updates, and a responsive design optimized for both iOS and Android.",
-  "tags": ["React Native", "Expo", "Firebase (Backend)", "Redux", "Mobile UI/UX", "Stripe API", "API Integration"],
-  "liveLink": "#",
-  "repoLink": "#"
-},
- {
-  "id": 10,
-  "title": "Insurance Booking App",
-  "category": "Mobile Development",
-  "imageUrl": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
-  "shortDescription": "A cross-platform mobile app for purchasing and managing insurance policies, built with React Native.",
-  "longDescription": "The Insurance Booking App, developed using React Native and Expo, provides a seamless platform for users to browse, purchase, and manage insurance policies such as health, auto, and home insurance. Key features include a dynamic policy search and comparison tool, secure payment integration via Stripe, user profiles with policy history and claim tracking, push notifications for policy updates, and a responsive design optimized for both iOS and Android.",
-  "tags": ["React Native", "Expo", "Firebase (Backend)", "Redux", "Mobile UI/UX", "Stripe API", "API Integration"],
-  "liveLink": "#",
-  "repoLink": "#"
-},
-{
   id: 1,
   title: "Advanced Web Vulnerability Scanner",
   category: "Cyber Security",
@@ -204,7 +182,7 @@ const PersonalProjects = () => {
   id: 3,
   title: "Keylogger",
   category: "Cyber Security",
-  imageUrl: "https://images.unsplash.com/photo-1556742049-887f6717d7f4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1000&q=80",
+  imageUrl: "./key.png",
   shortDescription: "A Python-based keylogger for monitoring keystrokes in a controlled environment.",
   longDescription: "This Keylogger, built with Python and the pynput library, captures and logs keystrokes for educational purposes in ethical hacking scenarios. Features include real-time keystroke monitoring, logging to a secure file with AES encryption, timestamped entries, and a basic CLI interface. The project emphasizes ethical use for testing system security and includes detection mechanisms to identify unauthorized keyloggers, aligning with cybersecurity best practices.",
   tags: ["Python", "Pynput", "Keylogger", "Ethical Hacking", "AES Encryption", "Cybersecurity", "Monitoring"],
